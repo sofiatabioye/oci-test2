@@ -1,5 +1,11 @@
 {
-    "name": "my-awesome-package",
+	"name": "myfunction",
     "version": "1.0.0",
-    "author": "Your Name <email@example.com>"
-  }
+	"description": "example function",
+	"main": "func.js",
+	"author": "",
+	"license": "Apache-2.0",
+	"dependencies": {
+		"@fnproject/fdk": ">=0.0.17"
+	}
+}
